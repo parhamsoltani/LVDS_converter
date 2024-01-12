@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetCN3_5 Pin=U2-14
+Removed Pin From Net: NetName=NetCN3_10 Pin=U2-15
+Added Pin To Net: NetName=NetCN3_10 Pin=U2-14
+Added Pin To Net: NetName=NetCN3_5 Pin=U2-15
+Added Room: Name=SCHEMATIC_MAIN

@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=D1N New Net Name=D1_N
+Change Net Name : Old Net Name=D1P New Net Name=D1_P
+Change Net Name : Old Net Name=D2N New Net Name=D2_N
+Change Net Name : Old Net Name=D2P New Net Name=D2_P
+Change Net Name : Old Net Name=R1N New Net Name=R1_N
+Change Net Name : Old Net Name=R1P New Net Name=R1_P
+Change Net Name : Old Net Name=R2N New Net Name=R2_N
+Change Net Name : Old Net Name=R2P New Net Name=R2_P
+Added Differential Pair: Name=D1
+Added Differential Pair: Name=D2
+Added Differential Pair: Name=R1
+Added Differential Pair: Name=R2
+Added Room: Name=SCHEMATIC_MAIN

@@ -1,0 +1,35 @@
+Source PCB Design Panelize.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [LVDS Converter.PrjPcb]
+   Generated File[Panelize_Copper_Signal_Top.gbr]
+   Generated File[Panelize_Copper_Plane_0.gbr]
+   Generated File[Panelize_Copper_1_Plane_0.gbr]
+   Generated File[Panelize_Copper_Signal_Bot.gbr]
+   Generated File[Panelize_Pads_Bot.gbr]
+   Generated File[Panelize_Pads_Top.gbr]
+   Generated File[Panelize_Soldermask_Top.gbr]
+   Generated File[Panelize_Soldermask_Bot.gbr]
+   Generated File[Panelize_Paste_Top.gbr]
+   Generated File[Panelize_Paste_Bot.gbr]
+   Generated File[Panelize_Legend_Top.gbr]
+   Generated File[Panelize_Legend_Bot.gbr]
+   Generated File[Panelize_Keep-out.gbr]
+   Generated File[Panelize_Route_Tool_Path.gbr]
+   Generated File[Panelize_Mechanical_1.gbr]
+   Generated File[Panelize_Mechanical_13.gbr]
+   Generated File[Panelize_Mechanical_15.gbr]
+   Generated File[Panelize_Profile.gbr]
+   Generated File[Panelize_NPTH_Drill.gbr]
+   Generated File[Panelize_PTH_Drill.gbr]
+   Generated File[Panelize_Drawing_1.gbr]
+   Generated File[Panelize_Drillmap_1.gbr]
+   Generated File[Panelize.EXTREP]
+   Generated File[Panelize.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 8:14:50 PM On 12/23/2023

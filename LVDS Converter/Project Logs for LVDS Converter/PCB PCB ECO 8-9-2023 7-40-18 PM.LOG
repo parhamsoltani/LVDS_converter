@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetCN3_3 Pin=U2-10
+Removed Pin From Net: NetName=NetCN3_8 Pin=U2-14
+Added Pin To Net: NetName=NetCN3_8 Pin=U2-10
+Added Pin To Net: NetName=NetCN3_3 Pin=U2-14
+Added Member To Class: ClassName=SCHEMATIC_MAIN Member=Component C1 Cap
+Added Member To Class: ClassName=SCHEMATIC_MAIN Member=Component C4 Cap
+Added Member To Class: ClassName=SCHEMATIC_MAIN Member=Component CN1 Header 2
+Added Member To Class: ClassName=SCHEMATIC_MAIN Member=Component CN3 M55-10P
+Added Member To Class: ClassName=SCHEMATIC_MAIN Member=Component D1 LED1
+Added Member To Class: ClassName=SCHEMATIC_MAIN Member=Component U1 LM1117DT-3.3/NOPB
+Added Room: Name=SCHEMATIC_MAIN

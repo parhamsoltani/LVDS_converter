@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=D2_N Pin=R4-1
+Added Pin To Net: NetName=D2_P Pin=R4-2
+Added Pin To Net: NetName=D2_N Pin=U2-5
+Added Pin To Net: NetName=D2_P Pin=U2-6
+Added Differential Pair: Name=D2
+Added Room: Name=SCHEMATIC_MAIN
